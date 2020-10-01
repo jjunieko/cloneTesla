@@ -15,9 +15,9 @@ UI Clone - Tesla - feito pela Rockeseat
 
 ## Participants
 
-[<img src="https://avatars1.githubusercontent.com/u/47192593?s=60&v=4" width="90px;"/>](https://github.com/jjunieko.github.io)
+[<img src="https://avatars1.githubusercontent.com/u/47192593?s=60&v=4" width="70px;"/>](https://github.com/jjunieko.github.io)
 
-[Guilherme Rodz](https://github.com/guilhermerodz)
+[João Junior](https://github.com/jjunieko)
 
 ## Techs
 
