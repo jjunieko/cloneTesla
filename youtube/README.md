@@ -1,5 +1,5 @@
 <h1 align="center">
-UI Clone - Tesla
+UI Clone - Tesla - feito pela Rockeseat
 </h1>
 
 <p align="center"><a href="https://tesla.com">Tesla Homepage</a> UI clone for study purposes.</p>
