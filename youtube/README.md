@@ -3,7 +3,6 @@ UI Clone - Tesla - feito pela Rockeseat
 </h1>
 
 <p align="center"><a href="https://tesla.com">Tesla Homepage</a> UI clone for study purposes.</p>
-<p align="center">Click <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a> to the YouTube playlist.</p>
 
 <p align="center">
   <a href="https://github.com/rocketseat-content/youtube-clone-tesla-homepage/graphs/contributors">
