@@ -15,7 +15,7 @@ UI Clone - Tesla
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
+[<img src="https://avatars1.githubusercontent.com/u/47192593?s=60&v=4" width="90px;"/>](https://github.com/jjunieko.github.io)
 
 [Guilherme Rodz](https://github.com/guilhermerodz)
 
